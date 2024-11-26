@@ -57,7 +57,7 @@ This is a simple **Weather App** that fetches and displays real-time weather dat
 
 ## Screenshot 📸
 
-![Weather App Screenshot](https://drive.google.com/file/d/1IzBj8Ret0_axtp2TkcRsOaiKLPEoeFFp/view?usp=sharing)
+![Weather App Screenshot](https://github.com/Jatin-kumar-10/weather/blob/main/Demo.webp)
 
 ## Improvements 🛠️
 
